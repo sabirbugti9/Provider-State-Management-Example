@@ -1,16 +1,6 @@
-# flutter_tips
+Flutter Provider Tutorial (State Management)
 
-A new Flutter project.
+[Youtube Watch](https://www.youtube.com/watch?v=GtXWUa3jeds)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1261](https://user-images.githubusercontent.com/77012663/232070408-f8d744b4-717e-49ed-bc97-59977386bf23.png)
